@@ -1,9 +1,10 @@
 # Coffee Shop Sales Analysis
+Objective : <br>
 
 The main objective of this project is to analyze the retail sales data to gain actionable insights that will enhance the performance of the coffee shop.
 
 
-Dataset Description:
+Dataset Description: <br>
 The dataset contains detailed sales records with 11 columns and 149,116 rows. Key attributes include transaction details, product categories, and revenue.
 
 <table>
@@ -64,12 +65,12 @@ The dataset contains detailed sales records with 11 columns and 149,116 rows. Ke
 This data dictionary provides a quick overview of each column in the dataset.
 
 
-Tools Used
-Microsoft Excel: For data cleaning, aggregation, and dashboard creation.
+Tools Used <br>
+<b>Microsoft Excel:</b> For data cleaning, aggregation, and dashboard creation.<br>
 Visualization Features: Used pivot tables, slicers, and various chart types to create an interactive dashboard.
 
 
-Conclusion
+Conclusion <br>
 
 This analysis highlights peak hours, high-performing stores, top-selling products, and customer behavior trends. It can be used for strategic planning, such as targeted promotions during peak hours and stock optimization for best-selling products.
 
