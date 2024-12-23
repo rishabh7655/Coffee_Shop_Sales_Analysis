@@ -4,7 +4,7 @@ The main objective of this project is to analyze the retail sales data to gain a
 
 
 Dataset Description : <br>
-The dataset contains detailed sales records with 11 columns and 149,116 rows. Key attributes include transaction details, product categories, and revenue.
+The dataset contains detailed sales records with 11 columns and 149,116 rows. Key attributes include transaction details, product categories, and unit price.
 
 <table>
         <thead>
